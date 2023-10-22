@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Core.App" OutputType="Exe" TargetFramework="netcoreapp8.0">
+<PropertyGroup><TargetFramework>netcoreapp8.0</TargetFramework></PropertyGroup>
+<ItemGroup>
+<Reference Include="System"/>
+<Reference Include="System.Core"/></ItemGroup></Project>
